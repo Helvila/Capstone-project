@@ -26,5 +26,5 @@ This is a simple command-line journal application written in Python. It allows u
 - schedule: For scheduling reminders.
 
 ## Contributors
-- [Helvila](https://github.com/yourusername)
+- [Helvila]https://github.com/Helvila/
 
