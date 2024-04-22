@@ -14,7 +14,7 @@ This is a simple command-line journal application written in Python. It allows u
 
 
 ## Usage
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine https://github.com/Helvila/Capstone-project.git
 2. Ensure you have Python installed.
 3. Install the required dependencies by running `pip install -r requirements.txt`.
 4. Run the `capstone_project_journal.py` file using Python.
