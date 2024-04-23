@@ -31,7 +31,6 @@ This is a simple command-line journal application written in Python. It allows u
 -Main Menu
 ![main menu-main menu drawio](https://github.com/Helvila/Capstone-project/assets/49280436/e5d43a29-f3d0-45ec-8a74-cd384896c458)
 
-
 -Display Journal
 ![main menu-display journal drawio](https://github.com/Helvila/Capstone-project/assets/49280436/9f6a0d2d-b5d5-4fd8-972e-4443b70406c5)
 
