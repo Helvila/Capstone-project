@@ -23,7 +23,6 @@ This is a simple command-line journal application written in Python. It allows u
 ## Dependencies
 - Python 3.x
 - tabulate: For displaying journal entries in a formatted table.
-- schedule: For scheduling reminders.
 
 ## Contributors
 - [Helvila]https://github.com/Helvila/
